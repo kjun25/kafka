@@ -6,7 +6,7 @@ bin/zookeeper-server-start.sh config/zookeeper.properties
 ```
 ## kafka-server
 ```sh
-bin/kafka-server-start.sh config.server.properties
+bin/kafka-server-start.sh config/server.properties
 ```
 ## kafka-command
 ```sh
